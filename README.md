@@ -2,8 +2,8 @@
 
 ## 1. Selectores de Tipo
 **Descripción**: Seleccionan todos los elementos de un tipo específico.
-**Ejemplo de Código**:
-```css
+Ejemplo 
+
 p {
   color: blue;
 }
