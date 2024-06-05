@@ -15,7 +15,7 @@ Aplicación Práctica: Utilizado para aplicar estilos uniformes a todos los pár
 
 
 css
-Copiar código
+
 .button {
   background-color: green;
 }
@@ -26,7 +26,7 @@ Copiar código
 **Ejemplo de Código:
 
 css
-Copiar código
+
 #header {
   font-size: 24px;
 }
@@ -37,7 +37,7 @@ Copiar código
 **Ejemplo de Código:
 
 css
-Copiar código
+
 input[type="text"] {
   border: 1px solid black;
 }
@@ -48,7 +48,7 @@ input[type="text"] {
 **Ejemplo de Código:
 
 css
-Copiar código
+
 div p {
   color: red;
 }
@@ -59,7 +59,7 @@ div p {
 **Ejemplo de Código:
 
 css
-Copiar código
+
 ul > li {
   list-style: none;
 }
@@ -70,7 +70,7 @@ ul > li {
 **Ejemplo de Código:
 
 css
-Copiar código
+
 h1 + p {
   margin-top: 0;
 }
@@ -81,7 +81,7 @@ h1 + p {
 **Ejemplo de Código:
 
 css
-Copiar código
+
 h1 ~ p {
   color: gray;
 }
@@ -92,7 +92,7 @@ h1 ~ p {
 **Ejemplo de Código:
 
 css
-Copiar código
+
 a:hover {
   text-decoration: underline;
 }
@@ -103,7 +103,7 @@ a:hover {
 **Ejemplo de Código:
 
 css
-Copiar código
+
 p::first-line {
   font-weight: bold;
 }
