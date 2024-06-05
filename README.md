@@ -7,7 +7,7 @@ Ejemplo
 p {
   color: blue;
 }
-Aplicación Práctica: Utilizado para aplicar estilos uniformes a todos los párrafos en un documento HTML.
+<Aplicación Práctica:> Utilizado para aplicar estilos uniformes a todos los párrafos en un documento HTML.
 
 ## 2. Selectores de Clase
 **Descripción: Seleccionan todos los elementos que tienen una clase específica.
